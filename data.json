@@ -1,0 +1,47 @@
+[
+  {
+    "id": "f398fca7-c9db-4f81-a86f-614b0f47786f",
+    "title": "Sample Note 1",
+    "content": "Expect it to save this note and allow delete, at least. "
+  },
+  {
+    "id": "c2ddbd64-688a-4cf2-83c1-b47a4ce3047b",
+    "title": "Wait",
+    "content": "Can't I create a new note"
+  },
+  {
+    "id": "432b14c3-b536-46a2-b55d-8acb98d7b4c4",
+    "title": "At Long Last",
+    "content": "I have been able to create a CRUD notes application."
+  },
+  {
+    "id": "6412758b-c405-4cf2-bcf8-142d84107d2e",
+    "title": "At Long Last",
+    "content": "The edit function must come out after an edit"
+  },
+  {
+    "id": "412a80db-637b-4a4b-9203-dff05c63ac58",
+    "title": "Error identified",
+    "content": "Seems after an edit, no new note is created. Every other note goes to the edited note. Let's fix that."
+  },
+  {
+    "id": "b2535f20-5578-472f-a2cd-1778e6c11940",
+    "title": "Sample Note 25",
+    "content": "I'm done editing you"
+  },
+  {
+    "id": "8c5fd815-53eb-4ba8-bc68-21dee53e845d",
+    "title": "Sample Note 26",
+    "content": "Did the reset work well?"
+  },
+  {
+    "id": "c47c3378-ce68-4cb5-96a1-6a36e537b2d4",
+    "title": "Sample Note 27",
+    "content": "This will tell us"
+  },
+  {
+    "id": "4d93e094-e377-4b8b-bba0-2391e15ec128",
+    "title": "Mission Accomplished",
+    "content": "I am done with this work. Congratulations!"
+  }
+]
